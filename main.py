@@ -4,7 +4,7 @@ import random
 from distribution import generate_random
 
 # Assume number of family N=1000
-# Assume size of each family ranging from 1 to 8
+# Assume size of each family ranging from 1 to 9
 
 N = 1000
 MIN = 1
